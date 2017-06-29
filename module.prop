@@ -1,0 +1,7 @@
+id=DCI-P3_Enabler_OP3-3T
+name=DCI-P3 Enabler for OP3/3T
+version=1.0
+versionCode=1.0
+author=doubleaykay
+description=Enables DCI-P3 color gamut on OnePlus 3/3T
+template=3
