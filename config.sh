@@ -27,7 +27,7 @@
 
 # This will be the folder name under /magisk
 # This should also be the same as the id in your module.prop to prevent confusion
-MODID=DCI-P3_Enabler_OP3-3T
+MODID=DCI-P3_Enabler_OP3T
 
 # Set to true if you need to enable Magic Mount
 # Most mods would like it to be enabled
@@ -50,7 +50,7 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     DCI-P3_Enabler_OP3-3T    "
+  ui_print "     DCI-P3_Enabler_OP3T    "
   ui_print "*******************************"
 }
 
