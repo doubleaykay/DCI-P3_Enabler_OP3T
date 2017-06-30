@@ -1,5 +1,5 @@
 ## DCI-P3 Color Space Enabler for OnePlus 3T
-Note!!! Only for OnePlus 3T devices with a S6E3FA3 display panel. See below XDA link below for instructions on how to check.
+Note!!! Only for OnePlus 3T devices with a S6E3FA5 display panel. See below XDA link below for instructions on how to check.
 
 This runs the following command in the "late_start" service:
 
